@@ -1,5 +1,5 @@
 ---
-author: kapnobatai136
+author: samirdahmed 
 
 type: normal
 
@@ -7,7 +7,7 @@ category: must-know
 
 revisionQuestion:
   formats:
-    - fill-in-the-gap
+    - New coder learning python 
   context: standalone
 
 ---
